@@ -1,4 +1,7 @@
 namespace Name
 {
-    
+    class Name
+    {
+        
+    }
 }
